@@ -11,7 +11,7 @@ I love solving puzzles with code! As a DSA (Data Structures and Algorithms) enth
 - C
 - C++
 - Javascript
-#### Makeup Languages
+#### Markup Languages
 - HTML
 - CSS 
 #### Frameworks
