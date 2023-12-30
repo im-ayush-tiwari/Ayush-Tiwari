@@ -1,7 +1,11 @@
 # Hey there!👋
 
 ## 🚀 About Me
-Passionate developer with a knack for turning ideas into reality through code. I thrive on challenges and am constantly exploring new technologies to broaden my skill set.
+# Pixel Perfector 🎨
+
+I bring websites to life with colors and clicks. Frontend developer on a mission to make your digital world look awesome and work even better! ✨
+
+I love solving puzzles with code! As a DSA (Data Structures and Algorithms) enthusiast, I navigate through digital mazes, optimizing and organizing to make software smarter. Let's decode challenges together! 🔍💻
 
 ## 💻 Tech Stack
 - Languages: C, C++, Javascript
@@ -9,13 +13,15 @@ Passionate developer with a knack for turning ideas into reality through code. I
 - Frameworks: Bootstrap
 
 ## 🌱 Currently Learning
-Exploring Web Development and Data Structures in C++. Always seeking ways to enhance my problem-solving skills.
+I enjoy building awesome web pages that solves practical problems. I'm passionate about creating seamless and visually engaging user interfaces.
+
+And I also have an interest in DSA in C++. Always seeking ways to enhance my problem-solving skills.
 
 ## 📂 Projects
 Check out some of my projects below:
-1. [Project One](link-to-project-one): Brief description
-2. [Project Two](link-to-project-two): Brief description
-3. [Project Three](link-to-project-three): Brief description
+1. [Amazon clone](link-to-project-one)
+2. [Spotify clone](link-to-project-two)
+3. Simon says game](link-to-project-three)
 
 ## 📚 Blog
 I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
