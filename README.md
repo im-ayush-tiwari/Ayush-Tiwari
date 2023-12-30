@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Hey there!👋
 
 ## 🚀 About Me
 Passionate developer with a knack for turning ideas into reality through code. I thrive on challenges and am constantly exploring new technologies to broaden my skill set.
@@ -18,10 +18,10 @@ Check out some of my projects below:
 3. [Project Three](link-to-project-three): Brief description
 
 ## 📚 Blog
-I occasionally write about tech and development on my [blog](link-to-blog). Feel free to check it out!
+I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
 
 ## 📫 Let's Connect
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayushtiwariji)
-- Email: [Message me](ayushtiwari.personal@gmail.com)
+- Email: [Message me](mailto:ayushtiwari.personal@gmail.com)
 
 Feel free to explore my repositories, share your thoughts, or reach out for collaboration. Let's build something awesome together! 🚀
