@@ -26,7 +26,7 @@ Check out some of my projects below:
 I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
 
 ## 📫 Let's Connect
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayushtiwariji)
+- [![LinkedIn](https://images.app.goo.gl/G4p6zKYjyjUe2YvY7)](https://www.linkedin.com/in/ayushtiwariji)
 - Email: [Message me](mailto:ayushtiwari.personal@gmail.com)
 
 Feel free to explore my repositories, share your thoughts, or reach out for collaboration. Let's build something awesome together! 🚀
