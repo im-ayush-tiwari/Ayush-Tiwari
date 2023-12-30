@@ -7,7 +7,7 @@ I bring websites to life with colors and clicks. Frontend developer on a mission
 I love solving puzzles with code! As a DSA (Data Structures and Algorithms) enthusiast, I navigate through digital mazes, optimizing and organizing to make software smarter. Let's decode challenges together! 🔍💻
 
 ## 💻 Skills
-#### Languages
+#### Programming Languages
 - C
 - C++
 - Javascript
