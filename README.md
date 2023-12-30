@@ -26,7 +26,7 @@ Check out some of my projects below:
 I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
 
 ## 📫 Let's Connect
-- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" width="1rem" height="1rem">
+- LinkedIn [https://example.com/your-image.jpg]
 - Email: [Message me](mailto:ayushtiwari.personal@gmail.com)
 
 Feel free to explore my repositories, share your thoughts, or reach out for collaboration. Let's build something awesome together! 🚀
