@@ -21,7 +21,7 @@ Check out some of my projects below:
 I occasionally write about tech and development on my [blog](link-to-blog). Feel free to check it out!
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: [Your Twitter Handle](link-to-twitter)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayushtiwariji)
+- Email: [Message me](ayushtiwari.personal@gmail.com)
 
-Feel free to explore my repositories, contribute, or reach out for collaboration. Happy coding! 🚀
+Feel free to explore my repositories, share your thoughts, or reach out for collaboration. Let's build something awesome together! 🚀
