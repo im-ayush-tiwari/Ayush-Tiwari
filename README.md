@@ -1,13 +1,12 @@
 # Hey there!👋
 
 ## 🚀 About Me
-# Pixel Perfector 🎨
 
 I bring websites to life with colors and clicks. Frontend developer on a mission to make your digital world look awesome and work even better! ✨
 
 I love solving puzzles with code! As a DSA (Data Structures and Algorithms) enthusiast, I navigate through digital mazes, optimizing and organizing to make software smarter. Let's decode challenges together! 🔍💻
 
-## 💻 Tech Stack
+## 💻 Skills
 - Languages: C, C++, Javascript
 - Makeup Languages: HTML, CSS 
 - Frameworks: Bootstrap
