@@ -20,7 +20,7 @@ And I also have an interest in DSA in C++. Always seeking ways to enhance my pro
 Check out some of my projects below:
 1. [Amazon clone](link-to-project-one)
 2. [Spotify clone](link-to-project-two)
-3. Simon says game](link-to-project-three)
+3. [Simon says game](link-to-project-three)
 
 ## 📚 Blog
 I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
