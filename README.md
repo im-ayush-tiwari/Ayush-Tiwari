@@ -24,15 +24,15 @@ And I also have an interest in DSA in C++. Always seeking ways to enhance my pro
 
 ## 📂 Projects
 Check out some of my projects below:
-1. [Amazon clone](link-to-project-one)
-2. [Spotify clone](link-to-project-two)
-3. [Simon says game](link-to-project-three)
+1. [Amazon clone](https://github.com/im-ayush-tiwari/Amazon-clone.git)
+2. [Spotify clone](https://github.com/im-ayush-tiwari/Spotify-clone.git)
+3. [Simon says game](https://github.com/im-ayush-tiwari/Simon-says-game.git)
 
 ## 📚 Blog
 I occasionally write about tech and development on my [Twitter handle](https://x.com/tiwari_ji_69). Feel free to check it out!
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ayushtiwariji)
+- [LinkedIn](https://www.linkedin.com/in/im-ayush-tiwari)
 - [Email](mailto:ayushtiwari.personal@gmail.com)
 
 Feel free to explore my repositories, share your thoughts, or reach out for collaboration. Let's build something awesome together! 🚀
