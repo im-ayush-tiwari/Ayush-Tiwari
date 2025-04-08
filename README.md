@@ -11,11 +11,19 @@ I love solving puzzles with code! As a DSA (Data Structures and Algorithms) enth
 - C
 - C++
 - Javascript
+- Python
 #### Markup Languages
 - HTML
 - CSS 
 #### Frameworks
 - Bootstrap
+- Tailwind
+- React.js
+
+#### Backend
+- Node.js
+- Express.js
+- Redux
 
 ## 🌱 Currently Learning
 I enjoy building awesome web pages that solves practical problems. I'm passionate about creating seamless and visually engaging user interfaces.
